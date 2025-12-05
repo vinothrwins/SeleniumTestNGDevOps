@@ -111,7 +111,7 @@ public class E2EOrderFlowTest {
     @AfterClass
     public void tearDown() {
         if (driver != null) {
-     //       driver.quit();
+            driver.quit();
         }
     }
 }
