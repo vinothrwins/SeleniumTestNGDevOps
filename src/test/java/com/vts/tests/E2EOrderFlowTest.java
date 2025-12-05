@@ -44,6 +44,7 @@ public class E2EOrderFlowTest {
         // Maximize browser and set a basic implicit wait
         driver.manage().window().maximize();
         driver.manage().timeouts().implicitlyWait(0,TimeUnit.SECONDS);
+        System.out.println("Application Launched successfully");
     }
 
     @Test
