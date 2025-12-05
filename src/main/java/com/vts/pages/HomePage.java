@@ -8,6 +8,7 @@ import org.openqa.selenium.support.PageFactory;
 /**
  * HomePage class represents the Home screen of the VTech E-Commerce Demo App.
  * This version uses PageFactory with @FindBy annotations.
+ * Code by Vinoth Rathinam - 05 Dec 2025
  */
 
 
