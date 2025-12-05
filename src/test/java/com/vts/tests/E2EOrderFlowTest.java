@@ -32,7 +32,7 @@ public class E2EOrderFlowTest {
     private PaymentDetailsPage paymentDetailsPage;
     private ConfirmationPage confirmationPage;
 
-    // ✅ Change this to your actual AUT URL
+    // Actual URL
     private final String baseUrl = "https://vinothqaacademy.com/ecommerce-demo/home.html";
 
     @BeforeClass
